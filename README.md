@@ -7,3 +7,6 @@ In an attempt to continue using the hardware I paid for I'm embarking on a journ
 
 
 # Software & Drivers
+
+## Manuals and Files (from Raven)
+[Mirror](https://1drv.ms/f/s!As3_nT61A0MygdoT7qH14coRhSITWg?e=HBnvhU)
