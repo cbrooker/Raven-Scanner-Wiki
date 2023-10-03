@@ -1,2 +1,9 @@
-# Raven-Scanner-Wiki
-Raven Scanner is going out of business and their cloud services (which are required for the device to operate) will be shutting down 12/31/2023. Any information discovered while reverse engineering their API and Apps will be here.
+# Raven Scanner Wiki
+
+
+Raven Scanner is going out of business and their cloud services, which are required for the device to operate, will be shutting down 12/31/2023. 
+
+In an attempt to continue using the hardware I paid for I'm embarking on a journey reverse engineer as much of their software as I can to hopefully get to a point where we can have a community run API.
+
+
+# Software & Drivers
